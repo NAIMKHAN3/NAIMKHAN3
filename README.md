@@ -1,6 +1,6 @@
 <img align="center" src="https://i.ibb.co/GPzXNr5/1675078806015.png" alt="banner" width="400" height="400"/>
-### Hi there 👋, My name is Kamrul Islam
-#### I am MERN Stack Developer.
+<h1>Hi there 👋, My name is Kamrul Islam</h1>
+<h3> I am MERN Stack Developer.</h3>
 
 
 Hello, I'm Kamrul Islam, MERN Stack developer. I describe myself as a passionate web developer who loves coding, open source, and the web platform.
