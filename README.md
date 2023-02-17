@@ -1,5 +1,5 @@
-![I am MERN Stack Developer.](https://i.ibb.co/GPzXNr5/1675078806015.png)
-# Hi there 👋, My name is Kamrul Islam
+<img src="https://i.ibb.co/GPzXNr5/1675078806015.png" alt="banner" width="400" height="400"/>
+# Hi there 👋, My Name is Kamrul Islam
 ## I am MERN Stack Developer.
 
 
