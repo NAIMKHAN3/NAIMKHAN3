@@ -5,9 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naimkhan3" alt="naimkhan3" /></a> </p>
 
+- 🔭 I’m currently working on **My Parsonal Project**
+
+- 🌱 I’m currently learning **Redux, TypeScript**
+
 - 👨‍💻 All of my projects are available at [https://kamrul-islam-naim.netlify.app/](https://kamrul-islam-naim.netlify.app/)
 
 - 💬 Ask me about **Web Development**
+
+- 📫 How to reach me **kamrul.islam018552@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1kw2nka0iwf78epKKlWGz0e8akJ_W4fVX/view?usp=share_link](https://drive.google.com/file/d/1kw2nka0iwf78epKKlWGz0e8akJ_W4fVX/view?usp=share_link)
 
@@ -15,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kamrul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamrul islam" height="30" width="40" /></a>
-<a href="https://fb.com/kamrul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamrul islam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kamrul-islam-9b536a256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamrul-islam-9b536a256/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100007248463813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007248463813" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,3 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naimkhan3&show_icons=true&locale=en" alt="naimkhan3" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naimkhan3&" alt="naimkhan3" /></p>
