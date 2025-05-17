@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/GPzXNr5/1675078806015.png" alt="banner" width="400" height="400"/></p>
+
 <h1>Hi there 👋, My name is Kamrul Islam</h1>
 <h3> I am MERN Stack Developer.</h3>
 
